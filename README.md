@@ -1,225 +1,90 @@
-<!-- ========================= HERO SECTION ========================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Samuel%20Onuzurike&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20Native%20|%20Laravel%20|%20JavaScript&descAlignY=58&descAlign=50"/>
-</p>
+# Samuel Onuzurike
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;React+Native+Mobile+Developer;Laravel+%7C+PHP+%7C+JavaScript+Engineer;Building+Scalable+Digital+Solutions;Always+Learning+Something+New+🚀"/>
-</p>
+### Full-Stack Developer • Mobile Engineer • Problem Solver
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=omajesty&label=Profile+Views&color=0891b2&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/followers/omajesty?logo=github&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/stars/omajesty?logo=github&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&random=false&width=700&lines=Building+products+that+people+love.;Laravel+%7C+React+Native+%7C+JavaScript.;Turning+ideas+into+scalable+software." />
 
----
+<br>
 
-# 👋 Hi, I'm Samuel Onuzurike
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuel-onuzurike-883705133)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:you@example.com)
 
-### 💻 Full-Stack Web & Mobile Developer
-
-I'm a **results-driven Full-Stack Developer** with **5+ years** of experience building scalable web and mobile applications.
-
-I enjoy solving complex business problems through software and have worked on enterprise applications, government platforms, logistics systems, school management systems, AI-powered solutions, and fintech applications.
-
-I believe great software is built with **clean architecture**, **excellent user experience**, and **continuous learning**.
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨🏽‍💻 Who Am I?
 
 ```javascript
-const samuel = {
-    location: "Nigeria 🇳🇬",
+class Developer {
 
-    role: "Full-Stack Developer",
+    constructor(){
 
-    experience: "5+ Years",
+        this.name = "Samuel Onuzurike";
 
-    currentlyLearning: [
-        "Advanced JavaScript",
-        "React Native",
-        "System Design",
-        "Cloud Architecture"
-    ],
+        this.location = "Nigeria";
 
-    backend: [
-        "Laravel",
-        "PHP",
-        "Node.js",
-        "Express"
-    ],
+        this.role = "Full-Stack Developer";
 
-    frontend: [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "Tailwind CSS"
-    ],
+        this.code = [
 
-    mobile: [
-        "React Native",
-        "Expo",
-        "Firebase"
-    ],
+            "JavaScript",
 
-    databases: [
-        "MySQL",
-        "PostgreSQL",
-        "MongoDB",
-        "Firebase"
-    ],
+            "PHP",
 
-    devops: [
-        "Docker",
-        "Git",
-        "Linux",
-        "Nginx",
-        "AWS"
-    ],
+            "React",
 
-    hobbies: [
-        "Learning",
-        "Problem Solving",
-        "Open Source",
-        "Reading Tech Blogs"
-    ]
+            "React Native",
+
+            "Laravel"
+
+        ];
+
+    }
+
+    solve(problem){
+
+        return scalableSolution;
+
+    }
+
 }
+
+export default new Developer();
 ```
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/samuel-onuzurike-883705133">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://twitter.com/onuzurikesamuel">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="https://instagram.com/onuzurikesamuel">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://fb.com/omajesty.king">
-<img src="https://img.icons8.com/color/48/facebook-new.png"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,nodejs,express,php,laravel,python,firebase,mongodb,mysql,postgres,docker,git,github,linux,nginx,aws,figma,vscode,photoshop"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy Cabinet
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omajesty&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omajesty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omajesty&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=omajesty&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omajesty&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
+# 🚀 What I Build
 
 <table>
-<tr>
-
-<td width="50%">
-
-### 🌍 AI Translation Calling App
-
-- React Native
-- Expo
-- Twilio Voice
-- AI Translation
-- Firebase
-
-</td>
-
-<td width="50%">
-
-### 🏠 Real Estate Management System
-
-- Laravel
-- React
-- MySQL
-- REST API
-
-</td>
-
-</tr>
 
 <tr>
 
-<td width="50%">
+<td width="33%">
 
-### 🚚 Logistics Platform
+## 📱 Mobile
 
-- Laravel
-- React
-- Google Maps API
-- Payment Integration
+Cross-platform applications using React Native and Expo.
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-### 🎓 School Management System
+## 🌍 Web
 
-- Laravel
-- MySQL
-- Student Portal
-- Admin Dashboard
+Enterprise Laravel applications built for speed and scalability.
+
+</td>
+
+<td width="33%">
+
+## ☁ APIs
+
+REST APIs, authentication systems and backend services.
 
 </td>
 
@@ -229,42 +94,146 @@ const samuel = {
 
 ---
 
-# 💡 Current Focus
+# 🧭 Journey
 
-- 🚀 Mastering Advanced JavaScript
-- 📱 Building React Native Apps
-- ☁️ Learning Cloud Infrastructure
-- 🤖 Exploring AI Integrations
-- 🌍 Contributing to Open Source
+```text
+Learning
+     │
+     ▼
+
+PHP
+     │
+     ▼
+
+Laravel
+     │
+     ▼
+
+React
+     │
+     ▼
+
+React Native
+     │
+     ▼
+
+AI Applications
+```
 
 ---
 
-# ☕ Random Dev Quote
+# ⚙ Current Mission
+
+```yaml
+Building:
+    - AI Translation Calling Platform
+    - Logistics Platform
+
+Learning:
+    - Advanced JavaScript
+    - System Design
+    - Cloud Infrastructure
+
+Interested In:
+    - AI
+    - Backend Architecture
+    - Mobile Engineering
+
+Currently Reading:
+    - You Don't Know JS
+```
+
+---
+
+# 🛠 Tech Arsenal
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=js,react,reactivex,php,laravel,nodejs,express,firebase,mysql,postgres,mongodb,docker,git,github,linux,nginx,aws,vscode,figma&perline=10"/>
 
 </p>
 
 ---
 
+# 🌟 Highlighted Projects
 
-# 💬 Favorite Quote
-
-<p align="center">
-
-> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**  
-> — Martin Fowler
-
-</p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🌍 AI Translation Calling App | Real-time multilingual voice translation | React Native • Firebase |
+| 🚚 Logistics Platform | Delivery management platform | Laravel • React |
+| 🏠 Real Estate System | Property listing and management | Laravel |
+| 🎓 School Management System | Student and academic management | PHP • MySQL |
 
 ---
 
-<p align="center">
+# 📈 GitHub Dashboard
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omajesty&show_icons=true&hide_border=true&theme=transparent"/>
 
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omajesty&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=omajesty&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omajesty&bg_color=00000000&color=22d3ee&line=22d3ee&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Weekly Focus
+
+```
+JavaScript      ████████████████████ 95%
+
+React Native    █████████████████░░ 85%
+
+Laravel         ██████████████████░ 90%
+
+System Design   ████████████░░░░░░░ 60%
+
+Cloud           ██████████░░░░░░░░░ 50%
+```
+
+---
+
+# 🤝 Let's Build Something Great
+
+If you're looking for someone passionate about building reliable, scalable, and user-focused software, I'd love to connect.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuel-onuzurike-883705133)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://twitter.com/onuzurikesamuel)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/onuzurikesamuel)
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Great software isn't just code—it's an experience."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,100:3B82F6"/>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
