@@ -1,5 +1,5 @@
 <!--Banner-->
-![Omajesty Banner Image](./animbanner.gif)
+<img src="./animbanner.gif" alt="Omajesty Banner Image" width="100%" height="220" />
 
 <!--Night Owl image-->
 <div>
