@@ -27,7 +27,7 @@ I enjoy solving complex business problems through software, having shipped enter
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" height="40%" />
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" height="400" />
 </picture>
 <br />
 
