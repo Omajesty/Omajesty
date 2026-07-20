@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src="./animbanner.gif" alt="Omajesty Banner Image" width="100%" height="220" />
+<img src="./animbanner.gif" alt="Omajesty Banner Image" width="100%" height="240" />
 
 <!--Night Owl image-->
 <div>
@@ -27,7 +27,7 @@ I enjoy solving complex business problems through software, having shipped enter
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" width="100%" height="240" />
 </picture>
 <br />
 
