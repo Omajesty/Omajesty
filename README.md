@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">**Full-Stack Developer** with **5+ years** of experience building scalable web and mobile applications across Nigeria 🇳🇬 and beyond.
+<p align="left">Full-Stack Developer with 5+ years of experience building scalable web and mobile applications across Nigeria 🇳🇬 and beyond.
 
 I enjoy solving complex business problems through software, having shipped enterprise applications, government platforms, logistics systems, school management systems, AI-powered tools, and fintech products.
 </p>
@@ -56,14 +56,6 @@ I enjoy solving complex business problems through software, having shipped enter
     </picture>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Omajesty/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
 <br />
 
 <!--Github stats Table--> 
@@ -92,7 +84,7 @@ I enjoy solving complex business problems through software, having shipped enter
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Omajesty/storyblok-mcp-server">
+        <a href="https://github.com/Omajesty/farmers_extensionapp">
           <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Omajesty&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
