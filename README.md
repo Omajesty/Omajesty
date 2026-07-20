@@ -1,24 +1,28 @@
 <!-- ========================= HERO SECTION ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Samuel%20Onuzurike&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20Native%20|%20Laravel%20|%20JavaScript&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF6B6B,25:C44FE0,50:8E54EE,75:4776E6,100:00D9FF&section=header"/>
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+Native+Mobile+Developer;Laravel+%7C+PHP+%7C+JavaScript+Engineer;Building+Scalable+Digital+Solutions;Always+Learning+Something+New+%F0%9F%9A%80"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:FF6B6B,25:C44FE0,50:8E54EE,75:4776E6,100:00D9FF&text=Samuel%20Onuzurike&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Full-Stack%20Developer%20•%20React%20Native%20•%20Laravel%20•%20JavaScript&descAlignY=62&descAlign=50&descSize=18"/>
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/samuel-onuzurike-883705133"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/onuzurikesamuel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://instagram.com/onuzurikesamuel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://fb.com/omajesty.king"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=C44FE0&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+Native+Mobile+Developer+%F0%9F%93%B1;Laravel+%7C+PHP+%7C+JavaScript+Engineer+%E2%9A%99%EF%B8%8F;Building+Scalable+Digital+Solutions+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=omajesty&label=Profile+Views&color=0891b2&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/followers/omajesty?logo=github&style=for-the-badge&color=0891b2"/>
-    <img src="https://img.shields.io/github/stars/omajesty?logo=github&style=for-the-badge&color=0891b2"/>
+    <a href="https://linkedin.com/in/samuel-onuzurike-883705133"><img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/onuzurikesamuel"><img src="https://img.shields.io/badge/Twitter-C44FE0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://instagram.com/onuzurikesamuel"><img src="https://img.shields.io/badge/Instagram-8E54EE?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://fb.com/omajesty.king"><img src="https://img.shields.io/badge/Facebook-4776E6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=omajesty&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/omajesty?logo=github&style=for-the-badge&color=8E54EE"/>
+    <img src="https://img.shields.io/github/stars/omajesty?logo=github&style=for-the-badge&color=FF6B6B"/>
 </p>
 
 <p align="center">
